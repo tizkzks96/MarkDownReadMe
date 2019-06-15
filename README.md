@@ -88,7 +88,27 @@ Header 1 | Header 2
 Content 1 | Content 3
 Content 2 | Content 4
 
+### 테이블 정렬
+~~~
+| Header 1 | Header 2 | Header 3 |
+| :-------- | :--------: | --------: |
+| Left | Center | Right |
+~~~
+| Header 1 | Header 2 | Header 3 |
+| :-------- | :--------: | --------: |
+| Left | Center | Right |
 
+
+## 이미지
+>인라인 이미지
+>`![alt text](/test.png )`
+
+>링크 이미지
+>`![alt text](image_URL)`
+
+>참조 이미지
+>`![alt text][1]`
+>`[1]: /test.png`
 
 ## 목록
 > `*`
