@@ -67,7 +67,27 @@
 
 ## 리스트
 
+### 순서 있는 리스트
 >`No.` 숫자 다음 .을 찍는다. (적힌 숫자랑 상관없이 순서대로 번호가 매겨진다.)
+
+### 순서 없는 리스트
+>`*` `+` `-` 으로 시작
+
+
+## 테이블
+
+### 테이블 생성
+~~~
+Header 1 | Header 2
+--------- | ---------
+Content 1 | Content 3
+Content 2 | Content 4
+~~~
+Header 1 | Header 2
+--------- | ---------
+Content 1 | Content 3
+Content 2 | Content 4
+
 
 
 ## 목록
